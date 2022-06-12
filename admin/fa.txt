@@ -1,0 +1,10 @@
+font awesome
+- fa fa-home
+- fa fa-users
+- fa fa-credit-card
+- fa fa-shopping-cart
+- fa fa-pencil-square-o
+- fa fa-user-circle-o
+- fa fa-sign-out
+- fa fa-calendar
+- fa fa-key

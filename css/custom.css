@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'montserrat-med';
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'montserrat-semi';
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+
+body {
+    background-color: #222335;
+    color: white;
+}
+
+.content {
+    height: 35rem;
+}
+
+.content-login {
+    height: 450px;
+    background-color: #363758;
+    border-radius: 20px;
+}
+
+.f18 {
+    font-size: 18px;
+}
+
+.f12 {
+    font-size: 12px;
+}
+
+.btn-custom {
+    background-color: #363758;
+    color: #dcddec;
+}
+
+.btn-custom:hover {
+    background-color: #dcddec;
+    color: #363758;
+}
+
+.col-dsb-bg {
+    background-color: #363758;
+    border-radius: 10px;
+}
+
+.tabel {
+    color: white;
+}
+
+.input-number::-webkit-outer-spin-button,
+.input-number::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    appearance: none;
+}
+
+.semi {
+    font-family: montserrat-semi;
+}
+
+.med {
+    font-family: montserrat-med;
+}
+
+.reg {
+    font-family: montserrat;
+}
+
+.ml-5{
+    margin-left: 5px;
+}
+
+.hadir{
+    color: #03DAC5;
+}
+.tidakhadir{
+    color: #ED3E3E;
+}
+.dataTables_processing{
+    color: black;
+}
